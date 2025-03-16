@@ -1,0 +1,2 @@
+# M-todos-N-mericos-Aplicados
+Destinado a disciplina de Métodos Númericos Aplicados, onde será usado Python e suas bibliotecas.
